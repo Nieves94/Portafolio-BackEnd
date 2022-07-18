@@ -1,0 +1,21 @@
+@import url(url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@100&family=Pompiere&family=Roboto+Serif:ital,opsz,wght@0,8..144,400;1,8..144,200;1,8..144,500&display=swap');
+body{
+    background-image: url(https://c.wallhere.com/photos/c0/12/path_stones_water_layers_smooth_garden_vegetation_transparent-1063516.jpg!d);
+  
+    
+}
+p{
+    background-image: radial-gradient(circle, rgb(183, 226, 183) 0%, rgba(148,187,233,1) 100%);
+    font-family: "WaltographRegular";
+    font-size: 2.7em;
+    margin: 0 60px;
+    padding: 10px;
+    padding-top: 20px;
+    text-align: center;
+    -webkit-text-stroke: 1px black; /* width and color */
+}
+
+.imag{
+    width: 500px;
+    margin: 0 0 0 600px;
+}

@@ -1,0 +1,72 @@
+body{ 
+    background-image: url(https://s2.best-wallpaper.net/wallpaper/2560x1440/1809/Beautiful-dream-world-clouds-sky-starry-moon-silhouette_2560x1440.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: grayscale(20%);
+    height: 100vh;
+    width: 100vw;
+}
+h1 {
+    color: whitesmoke;
+    background-color: blue transparent;
+    text-align: center;
+    font-family: "WaltographRegular";
+    font-size: 4.5em;
+    margin-top: 30px;
+    padding-top: 20px;
+    -webkit-text-stroke: 1px black; /* width and color */
+
+
+}
+p {
+    color: whitesmoke;
+    font-family:  "WaltographRegular";
+    font-size: 2.7em;
+    margin: 0 60px;
+    padding: 10px;
+    text-align: center;
+    -webkit-text-stroke: 1px black; /* width and color */
+
+}
+.hada {
+    text-align: center
+}
+img{
+    border-radius: 60px;
+    box-shadow: 3px 3px 3px 1px#7ba3ad;
+
+}
+.btn {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+a {
+    background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+    color: whitesmoke;
+    font-family:  "WaltographRegular";
+    -webkit-text-stroke: 1px black; /* width and color */
+
+    font-size: 2.7em;
+    text-decoration: none
+    
+    
+    }
+
+.btn a {
+    padding: 0 10px;
+    margin: 0 10px;
+    border: 6.5px outset #eb94d0;
+
+}
+
+#veo{ 
+    margin-top: 30px;
+    padding-top: 20px;
+}
+.imag{
+    width: 500px;
+    margin: 0 0 0 400px;
+}
